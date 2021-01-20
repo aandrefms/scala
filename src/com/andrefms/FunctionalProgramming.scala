@@ -1,4 +1,4 @@
-package com.rockthejvm
+package com.andrefms
 
 object FunctionalProgramming extends App {
 
