@@ -39,6 +39,6 @@ object book11Anonymous extends App{
   // I've to use match expression or for-loops to handle Option output Type
   toInt2("25") match {
     case Some(i) => println(i)
-    case None => println("That didn't work.")
+    case None => println("That didn't work!")
   }
 }
